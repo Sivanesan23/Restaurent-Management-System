@@ -2,6 +2,7 @@
 
 **Project Description:**
   This is a Full-Stack Web Applicaiton for a Restaurant named "EliteFoods" located at various branches. This web-app is helpful to display various services, food items offered at each branch separately where Admins can add,edit and remove the food items for their specific branches and Customers can search,sort & filter the food items and order the food online & track the placed orders.
+  
 **Technologies Used:** 
     Angular (HTML, CSS & Type Script) for Frontend; 
     SPRING Boot, JAVA, Data JPA for Backend and MySQL Database. 
