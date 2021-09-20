@@ -1,8 +1,7 @@
 # Restaurent-Management-System
 
 **Project Description:**
-  This is a Full-Stack Web Applicaiton  named "Grocery Application" for grocery store.This web-app is helpful to display service like buying grocery items, grocery items offered at store separately where Admins can add,edit and remove the grocery items for their specific store and Customers can buy a required grocery item through this application.
-
+  This is a Full-Stack Web Applicaiton for a Restaurant named "EliteFoods" located at various branches. This web-app is helpful to display various services, food items offered at each branch separately where Admins can add,edit and remove the food items for their specific branches and Customers can search,sort & filter the food items and order the food online & track the placed orders.
 **Technologies Used:** 
     Angular (HTML, CSS & Type Script) for Frontend; 
     SPRING Boot, JAVA, Data JPA for Backend and MySQL Database. 
@@ -10,16 +9,16 @@
   
 **Features:**
     create a new customer in the DB.
-    Add, Edit, Delete the product in the DB.
-    Admin can able manage the customer and products.
+    Admin can able to manage the order and food items.
+    Add, Edit, Delete the Food items in the DB.
     
     
 **Getting Started:**
-     git remote add origin https://github.com/Sivanesan23/Grocery.git
+     git remote add origin https://github.com/Sivanesan23/Restaurent-Management-System.git
      compile and run the angular and spring code
      open up the visual studio and start the server using ng serve(command)
         
 **Usage:**
-    open the visual studio code and start the server using ng serve command and it will be visible on LocalHost:4200(port number). there are two modules in this project admin and user.
-    admin can able to add new product , edit the existing product details, and delete product . what are the product admin added it will be directly show in user dashboard.
-    user can able to see all the product details and which product they want they can able add product in add to cart.
+    Open the visual studio code and start the server using ng serve command and it will be visible on LocalHost:4200(port number). there are two modules in this project admin and customer.
+    Admin can able to add new food items , edit the existing items details, and delete items . what are the items admin added it will be directly show in customer dashboard.
+    Customer can able to see all the food items details and which food they want they can able add food item in add to cart and also able to place the order.
